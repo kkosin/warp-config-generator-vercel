@@ -289,7 +289,7 @@ MIT License — see [LICENCE](LICENCE)
 ## 🔗 Mirrors / Alternative Links
 
 - Telegram Bot: [t.me/warp_generator_bot](https://t.me/warp_generator_bot)
-- Main Site: [warp3.llimonix.pw](https://warp3.llimonix.pw)  
+- Main Site: [warpgenerator.com](https://warpgenerator.com)  
 - Vercel Mirror: [warply3.vercel.app](https://warply3.vercel.app)
 - Netlify Mirror: [getwarp3.netlify.app](https://getwarp3.netlify.app)
 - Cloudflare Mirror: [warp.llimonix.workers.dev](https://warp.llimonix.workers.dev)
